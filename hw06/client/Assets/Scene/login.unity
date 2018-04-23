@@ -2032,7 +2032,7 @@ MonoBehaviour:
   newPassword: 
   newName: 
   newRequest: 
-  URL: http://localhost:8081/
+  URL: http://ec2-54-169-96-171.ap-southeast-1.compute.amazonaws.com:8081/
 --- !u!4 &1075291355
 Transform:
   m_ObjectHideFlags: 0
